@@ -1,0 +1,16 @@
+**/.metadata/
+**/build/
+**/target/
+**/.DS_Store
+**/.classpath
+**/.idea
+**/.project
+**/.settings
+openblocks.iml
+bin/
+#.settings/
+
+**/deploy.sh
+**/test-output
+
+
